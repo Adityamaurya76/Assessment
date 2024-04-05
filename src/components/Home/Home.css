@@ -1,0 +1,40 @@
+.parentdiv {
+    margin: 0px, auto;
+    width: 96%;
+    display: flex;
+    
+
+}
+.left{
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px, 10px;
+
+}
+.right{
+    width: 20%;
+    background-color: yellow;
+    
+}
+.leftchild{
+    text-align: left;
+}
+#rightleftchild{
+    margin: 0px, auto;
+    width: 70%;
+}
+.rightleftchildchild{
+    text-align: justify;
+}
+.rightchild{
+    padding-top: 50px;
+}
+.h4{
+    color: rgb(255, 19, 23);
+    size: 15px;
+}
+p{
+    color: black;
+    size: 40px;
+}
